@@ -1,0 +1,5 @@
+flutter_launcher_icons:
+  android: true 
+  ios: true
+  image_path: "assets/images/splash_screen_logo_image_above_android12.png"
+  min_sdk_android: 21 
